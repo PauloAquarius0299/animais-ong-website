@@ -1,3 +1,19 @@
+![Captura de Tela (35)](https://github.com/PauloAquarius0299/animais-ong-website/assets/114706743/479bfabc-bf20-435f-b8d8-8f562130f491)
+
+# 😺 Help Animais Web and Mobile
+Criei um site de ajuda como uma ONG de extinção de animais da fauna brasileira com Reacj.js e Sass.
+## 🐈 Indrodução 
+O objetivo é criar uma interface responsiva, interativa, agradavel, colorida e intuitiva, com ela o usuario teria acesso a informação das principais expecies em extinção na fauna brasileira. A interface contem interatividade do dark mode para light mode, filter de cores duplas atras das imagens, hamburger surgindo a direita no modo mobile, scrollTo com ceta interativa para o top da pagina e links que abrem para proxima pagina após o click no usuario em alguns button.
+### 💡 Pre-Requisitos 
+Estilização da interface com Sass, hamburger na direita ao modo mobile e scrollLeave-scrollTop
+### 🛠️ Ferramentas
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Captura de Tela (36)](https://github.com/PauloAquarius0299/animais-ong-website/assets/114706743/b6325026-5352-4306-aa8d-5f67669f50d5)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
