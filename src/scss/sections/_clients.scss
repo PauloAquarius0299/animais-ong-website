@@ -1,0 +1,36 @@
+.clients{
+    padding:0 50px;
+    
+    .container{
+        .clients-container{
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            text-align: center;
+            justify-content: space-evenly;
+            gap: 2rem;
+            right: 20%;
+            img{
+                
+                width: 400px;
+                height: 100px;
+            }
+        }
+    }
+    @media screen and (min-width:280px) and (max-width:1080px){
+        padding: 1rem 2rem;
+        .container{
+            grid-template-columns: repeat(2, 1fr);
+            text-align: left;
+            gap: 1rem;
+            .client{
+                &:nth-last-of-type(5) {
+                    display: none;
+                }
+                img {
+                    height: 7.5rem;
+                }
+                
+            }
+        }
+    }
+}
